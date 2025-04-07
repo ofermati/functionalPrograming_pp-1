@@ -6,7 +6,7 @@
     "outDir": "dist",
     "strict": true,
     "lib": ["ES2016", "DOM"],
-    "types": ["jest", "node"],
+    "types": ["jest", "node", "ramda"],
     "isolatedModules": true
   }
 }
